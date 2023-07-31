@@ -1,4 +1,4 @@
-### Hi Welcome, i'm SEUNGHYUNHONG 👋
+### Hi Welcome, i'm SEUNGHYUN HONG 👋
 
 #### Game Developer
 Developers who create funny games
