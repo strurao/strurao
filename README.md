@@ -1,10 +1,20 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&text=Hi,%20I'm%20SeungHyun%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+<div align=center>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&text=Hi,%20I'm%20SeungHyun%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
+<div align=center>
+  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion%2B%2B&logoColor=white">
+</div>
+
+  
 안녕하세요, 깃허브는 개인 공부 저장소이며 현재 게임 개발자를 꿈꾸며 역량을 키워나가고 있습니다.
+
+#
 
 ### 🛠 Skills
 #### ✏ Learning & Usable
-<div align=left> 
+<div align=center>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-c%23-000000?style=for-the-badge&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -17,8 +27,9 @@
 </div>
 
 #### 📖 Collaboration
-<div align=left> 
+<div align=center> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
+</div>
 </div>
