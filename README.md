@@ -6,8 +6,8 @@
 
 
 <div align=center>
-  <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion%2B%2B&logoColor=white">
+   <a href="https://velog.io/@strurao"><img src="https://img.shields.io/badge/velog%20-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@strurao"/></a>
+  <a href="https://www.notion.so/329b71fb7d9141c7bd94d092d72f6089"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion%2B%2B?&logoColor=white&link=https://www.notion.so/329b71fb7d9141c7bd94d092d72f6089"/></a>
 </div>
 
   
@@ -17,22 +17,22 @@
 ### 🛠 Skills
 #### ✏ Learning & Usable
 <div align=center>
-  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/-c%23-000000?style=for-the-badge&logo=Csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/-c%23-000000?style=flat-square&logo=Csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/rust-000000?style=flat-square&logo=rust&logoColor=white">
  <br>
-  <img src="https://img.shields.io/badge/unreal engine-0E1128?style=for-the-badge&logo=unreal engine&logoColor=white">
-  <img src="https://img.shields.io/badge/unity-002244?style=for-the-badge&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/unreal engine-0E1128?style=flat-square&logo=unreal engine&logoColor=white">
+  <img src="https://img.shields.io/badge/unity-002244?style=flat-square&logo=unity&logoColor=white">
   <br>
 </div>
 
 #### 📖 Collaboration
 <div align=center>
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
 </div>
 </div>
