@@ -8,6 +8,7 @@
 <div align=center>
    <a href="https://velog.io/@strurao"><img src="https://img.shields.io/badge/velog%20-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@strurao"/></a>
   <a href="https://www.notion.so/329b71fb7d9141c7bd94d092d72f6089"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion%2B%2B?&logoColor=white&link=https://www.notion.so/329b71fb7d9141c7bd94d092d72f6089"/></a>
+  <a href="https://www.youtube.com/@strurao"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@strurao"/></a>
 </div>
 
   
@@ -34,5 +35,6 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
-</div>
+
+
 </div>
