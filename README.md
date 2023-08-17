@@ -7,7 +7,7 @@
 
 <div align=center>
    <a href="https://velog.io/@strurao"><img src="https://img.shields.io/badge/velog%20-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@strurao"/></a>
-  <a href="https://cooperative-ease-f50.notion.site/1-303c33c70c134c039ffa89407055264d"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion%2B%2B?&logoColor=white&link=https://cooperative-ease-f50.notion.site/1-303c33c70c134c039ffa89407055264d"/></a>
+  <a href="https://cooperative-ease-f50.notion.site/329b71fb7d9141c7bd94d092d72f6089?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion%2B%2B?&logoColor=white&link=https://cooperative-ease-f50.notion.site/329b71fb7d9141c7bd94d092d72f6089?pvs=4"/></a>
   <a href="https://www.youtube.com/@strurao"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@strurao"/></a>
 </div>
 
