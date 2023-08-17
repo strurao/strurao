@@ -29,7 +29,7 @@
   <br>
 </div>
 
-#### 📖 Collaboration
+#### 🤝 Collaboration
 <div align=center>
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
