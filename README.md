@@ -14,7 +14,8 @@
   
 
 #
-
+### 🌍 Career
+**NAVER Z** Intern 2022.01-2022.04
 ### 🛠 Skills
 #### ✏ Learning & Usable
 <div align=center>
