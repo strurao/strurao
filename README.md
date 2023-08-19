@@ -14,8 +14,14 @@
   
 
 #
-### 🌍 Career
+### 🌍 Activites
+<div align=center>
+
 **NAVER Z** Intern 2022.01-2022.04
+ <br>
+**SMILEGATE** Indie Game Dev scholarship 2023.03-2023.05
+</div>
+
 ### 🛠 Skills
 #### Learning & Usable
 <div align=center>
