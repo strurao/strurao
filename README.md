@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
 
-####
+#### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=strurao)](https://solved.ac/strurao)
 
 </div>
