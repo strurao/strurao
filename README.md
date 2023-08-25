@@ -9,6 +9,7 @@
    <a href="https://velog.io/@strurao"><img src="https://img.shields.io/badge/Dev Blog%20-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@strurao"/></a>
   <a href="https://cooperative-ease-f50.notion.site/329b71fb7d9141c7bd94d092d72f6089?pvs=4"><img src="https://img.shields.io/badge/Notion (Profile)-000000?style=flat-square&logo=notion%2B%2B?&logoColor=white&link=https://cooperative-ease-f50.notion.site/329b71fb7d9141c7bd94d092d72f6089?pvs=4"/></a>
   <a href="https://www.youtube.com/@strurao"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@strurao"/></a>
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj={strurao}"/></a>
 </div>
 
   
@@ -42,6 +43,9 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white">
   <br>
+
+#### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=strurao)](https://solved.ac/strurao)
 
 
 </div>
