@@ -44,7 +44,7 @@
   <br>
 
 #### Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=strurao)](https://solved.ac/strurao)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=strurao)](https://solved.ac/strurao/)
 
 
 </div>
