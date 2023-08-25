@@ -1,6 +1,6 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0BA8FF,100:C687FF&customColorList=0,2,2,5,30&text=Hi,%20I'm%20SeungHyun%20👋&fontColor=FFFFFF&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0FF0B3,100:036ED9&customColorList=0,2,2,5,30&text=Hi,%20I'm%20SeungHyun%20👋&fontColor=FFFFFF&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
 안녕하세요, 깃허브는 개인 공부 저장소이며 현재 게임 개발자를 꿈꾸며 역량을 키워나가고 있습니다.
 
