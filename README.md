@@ -8,7 +8,7 @@
 <div align=center>
   
 ### 👋 Contacts
-<a href="https://cooperative-ease-f50.notion.site/329b71fb7d9141c7bd94d092d72f6089?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
+<a href="https://cooperative-ease-f50.notion.site/dc09026a1f5247959e8eb698f6123c9c?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
   <a href="https://velog.io/@strurao" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
   <a href="https://www.youtube.com/@strurao"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@strurao"/></a>
   <img src="https://img.shields.io/badge/strurao@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
