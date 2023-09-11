@@ -11,16 +11,6 @@
 <a href="https://cooperative-ease-f50.notion.site/dc09026a1f5247959e8eb698f6123c9c?pvs=4"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
   <a href="https://velog.io/@strurao" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
   <a href="https://www.youtube.com/@strurao"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@strurao"/></a>
-  <img src="https://img.shields.io/badge/strurao@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/>
-</div>
-
-  
-### 🌍 Activites
-<div align=center>
-
-**NAVER Z** Intern 2022.01-2022.04
- <br>
-**SMILEGATE** Indie Game Dev scholarship 2023.03-2023.05
 </div>
 
 ### 🛠 Skills
