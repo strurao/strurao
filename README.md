@@ -5,11 +5,7 @@
 
 <div align=center>
   
-### 👋 Contacts
-<a href="https://www.notion.so/a2801488933d470ba5c3200f48d58162"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=FFFFFF"/></a>
-  <a href="https://velog.io/@strurao" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=FFFFFF"/></a>
-  <a href="https://www.youtube.com/@strurao"><img src="https://img.shields.io/badge/Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@strurao"/></a>
-</div>
+
 
 ### 🛠 Skills
 #### Learning & Usable
