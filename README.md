@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0FF0B3,100:036ED9&customColorList=0,2,2,5,30&text=Hi,%20I'm%20SeungHyun!%20&fontColor=FFFFFF&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250)
 
-### 🤗🕹💻📚
+### 🕹💻📚
 깃허브는 개인 공부 저장소입니다.
 
 사용자에게 편리한 서비스를 화면에 그려내고 싶고
