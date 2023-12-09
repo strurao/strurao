@@ -12,9 +12,13 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
  <br>
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unreal engine&logoColor=white">
   <img src="https://img.shields.io/badge/Unity Engine-002244?style=flat-square&logo=unity&logoColor=white">
+  <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
+
   <br>
 </div>
 
