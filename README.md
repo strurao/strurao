@@ -4,6 +4,7 @@
 
 <div align=center>
   
+![header](https://capsule-render.vercel.app/api?type=Waving&color=00a1de&fontColor=fbf5f5&text=&fontAlignY=50)
 
 
 ### 🛠 Skills 🛠
