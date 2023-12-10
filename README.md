@@ -43,14 +43,4 @@
 
   <br>
 
----
-  
-  <!-- GitHub Stats -->
-  <a href="https://github.com/strurao"><img src="https://github-readme-stats.vercel.app/api?username=strurao&show_icons=true"/></a>
-  
-  <br/>
-  <br/>
-  <br/>
-  
-</div>
 
