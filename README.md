@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+  <br>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=20232a" />
   <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat-square&logo=html&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat-square&logo=css3&logoColor=white" />&nbsp
