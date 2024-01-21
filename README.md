@@ -6,12 +6,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00a1de&fontColor=fbf5f5&text=&fontAlignY=50)
 
-### 🖍 Blog 🖍
+### Blog
 
 https://velog.io/@strurao
 
-### 🛠 Skills 🛠
-#### 🔗 Techs that I've used at least once
+### Skills
+#### Techs that I've used at least once
 
 
 <div align=center>
@@ -35,7 +35,7 @@ https://velog.io/@strurao
 
 </div>
 
-#### 🔗 Cowork Tools
+#### Cowork Tools
 <div align=center>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
