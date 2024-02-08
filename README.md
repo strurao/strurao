@@ -6,9 +6,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00a1de&fontColor=fbf5f5&text=&fontAlignY=50)
 
-### Blog
+### Study Blog, Notion
+(Click to View!)
 
-https://velog.io/@strurao
+<a href="https://velog.io/@strurao" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://cooperative-ease-f50.notion.site/CS-Notes-a76e3834349e463292d0dd5952a99215?pvs=4
+" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
 
 ### Skills
 #### Techs that I've used at least once
