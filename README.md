@@ -1,22 +1,17 @@
 <div align=center>
-  
-
-
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=00a1de&fontColor=fbf5f5&text=&fontAlignY=50)
 
-### Study Blog, Notion
-(Click to View!)
+### 🔗 Study Blog, Notion
+**Click to View! 👉🏻** 
+ <a href="https://velog.io/@strurao" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+👉🏻 <a href="https://cooperative-ease-f50.notion.site/Study-ef93760c113e41b9982118830eef8b68?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 
-<a href="https://velog.io/@strurao" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://cooperative-ease-f50.notion.site/Study-ef93760c113e41b9982118830eef8b68?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-
-### Skills
+### 🔗 Skills
 #### Techs that I've used at least once
 
 
-<div align=center>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=Csharp&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"> 
@@ -39,14 +34,8 @@
 </div>
 
 #### Cowork Tools
-<div align=center>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Evernote-00A82D?style=flat-square&logo=Evernote&logoColor=white"/>
-
-  <br>
-
-
+  <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
