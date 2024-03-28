@@ -24,13 +24,3 @@
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unreal engine&logoColor=white">
   <img src="https://img.shields.io/badge/Unity Engine-002244?style=flat-square&logo=unity&logoColor=white">
   <!--https://img.shields.io/badge/텍스트-뱃지컬러?style=flat-square&logo=이모지이름&logoColor=white-->
-
-</div>
-
-#### Cowork Tools
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<br><br>
