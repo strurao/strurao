@@ -1,7 +1,6 @@
 <div align=center>
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=00a1de&fontColor=fbf5f5&text=&fontAlignY=50)
 
 #### Techs that I've used 
 
